@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    text-align: center;
+   
+
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/banner.jpg);
+}
+.main{
+    height: 300px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.021);
+    position: absolute;
+    top: 350px;
+    left: 800px;
+ 
+}
+.heading{
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.heading span{
+    color: aquamarine;
+}
+.class{
+    color: white;
+}
+
+.button1{
+    padding: 8px;
+    background-color: rgb(20, 131, 75);
+    color: white;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin
+}
+
+.button1:hover{
+    cursor: pointer;
+}
