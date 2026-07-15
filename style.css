@@ -10,7 +10,7 @@
 body{
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(images/banner.jpg);
+    background-image: url(images/banner.avif);
 }
 .main{
     height: 300px;
